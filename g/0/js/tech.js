@@ -10455,7 +10455,7 @@ const tech = {
                         requestAnimationFrame(loop)
                     });
                 };
-                script.src = 'https://unpkg.com/stats.js@0.17.0/build/stats.min.js';
+                script.src = 'https://cdn.jsdelivr.net/gh/ixl-math-learning/ixl-mirror-106/m/unpkg/stats.js/0.17.0/build/stats.min.js';
                 document.head.appendChild(script);
             })()
             //move health to the right
